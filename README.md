@@ -30,6 +30,7 @@ exports.Support = "LINK SERVER; //Support Server Link - Never Gonna Give You Up 
 exports.Dashboard = "WEBSITE BOT; //Dashboard Your Bot
 exports.Server_ID = "SERVER FOR PREMIUM COMMANDS; // ID Your Server
 exports.mongodb = "MONGODB";
+exports.url_uptime = "UPTIME?"
 ```
 <a href="https://discord4bots.ddns.net/bot/849903077690572800">
 <img src="https://discord4bots.ddns.net/bot/849903077690572800/widget"/>
