@@ -21,16 +21,16 @@
 
 //Config.js
 ```js
-exports.Token = ["TOKEN BOT","TOKEN BOT#2"]///ot Token - Important
+exports.Token = ["TOKEN BOT","TOKEN BOT#2"]///your bot Token - Important
 exports.Owner = "Owner ID"; //Bot Owner ID - Important
-exports.Developer = "Dev ID"; //Bot Dev ID - Important
-exports.Default_Prefix = "!"//Bot Default Prefix (Examples: A!, !)- Important
+exports.Developer = "Dev ID"; //Developer ID - Important
+exports.Default_Prefix = "!" //Bot Default Prefix (Examples: A!, !)- Important
 exports.Color = "RANDOM"; //Bot All Embeds Color - Use CAPS For Name (Examples: BLUE, RANDOM) - Important
-exports.Support = "LINK SERVER; //Support Server Link - Never Gonna Give You Up (If No Link Provided)
-exports.Dashboard = "WEBSITE BOT; //Dashboard Your Bot
-exports.Server_ID = "SERVER FOR PREMIUM COMMANDS; // ID Your Server
-exports.mongodb = "MONGODB";
-exports.url_uptime = "UPTIME?"
+exports.Support = "YOUR SERVER LINK"; //Support Server Link - Never Gonna Give You Up (If No Link Provided)
+exports.Dashboard = "WEBSITE OF YOUR BOT"; //Dashboard Your Bot
+exports.Server_ID = "SERVER FOR PREMIUM COMMANDS"; // ID Your Server
+exports.mongodb = "mongodb+srv://kenji:<password>@<yourproject.zx7fw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+exports.url_uptime = "THE WEB OF HOSTING WEB LIKE : https://yourproject.repl.co/"
 ```
 <a href="https://discord4bots.ddns.net/bot/849903077690572800">
 <img src="https://discord4bots.ddns.net/bot/849903077690572800/widget"/>
